@@ -1,0 +1,23 @@
+ 1. Verilmiş tələbələr siyahısı içərisində kəsilməmiş tələbələrin sayını tapan alqoritm
+
+Pseudocode:
+
+Start
+Input:
+students[]
+count=0
+
+if(students!=0) :
+	for i=0;i<students.length; i++ :
+		if students[i].point>50 :
+			count++
+	end for
+
+	if(count>0) :
+	print count
+
+	else print “All students failed”
+
+else print “There are no students”
+
+end

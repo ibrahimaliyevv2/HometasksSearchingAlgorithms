@@ -1,0 +1,21 @@
+ 2. Verilmiş tələbələr siyahısı içərisində groupNo dəyəri BP202 olan ən yüksən point dəyəri olan tələbənin pointini tapan alqoritm
+
+Pseudocode:
+
+Start
+
+Input:
+Students
+maxPoint=0
+
+if students!=0 :
+	for i=o; i<students.length; i++ :
+		if students[i].grupNo==“BP202”:
+			if students[i].point>maxPoint
+				maxPoint=students[i].point
+	end for
+print maxPoint
+
+else print “There are no students”
+			
+

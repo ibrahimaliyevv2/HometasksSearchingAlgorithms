@@ -1,0 +1,23 @@
+3. Verilmiş sıralı ədədlər siyahısı içərisində verilmiş N ədədinin indexini tapan alqoritm (binary search ilə)
+
+Pseudocode:
+
+Start
+Input:
+numbers
+n
+
+left = 0
+right = numbers.length - 1
+
+while left <= right:
+	middle = left + (right-left)/2
+	if numbers[middle]==n:
+		print middle
+	else 
+		if numbers[middle]<n:
+			left = middle + 1
+		else right = middle - 1
+end while
+
+else "Element does not exist in series"

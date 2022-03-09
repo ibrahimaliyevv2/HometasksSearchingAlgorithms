@@ -1,0 +1,13 @@
+/Users/ibrahimaliyevv/Desktop/HometasksSearchAlgorithms/Task3/task3/task3/obj/Debug/netcoreapp3.1/task3.csproj.AssemblyReference.cache
+/Users/ibrahimaliyevv/Desktop/HometasksSearchAlgorithms/Task3/task3/task3/obj/Debug/netcoreapp3.1/task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimaliyevv/Desktop/HometasksSearchAlgorithms/Task3/task3/task3/obj/Debug/netcoreapp3.1/task3.AssemblyInfoInputs.cache
+/Users/ibrahimaliyevv/Desktop/HometasksSearchAlgorithms/Task3/task3/task3/obj/Debug/netcoreapp3.1/task3.AssemblyInfo.cs
+/Users/ibrahimaliyevv/Desktop/HometasksSearchAlgorithms/Task3/task3/task3/obj/Debug/netcoreapp3.1/task3.csproj.CoreCompileInputs.cache
+/Users/ibrahimaliyevv/Desktop/HometasksSearchAlgorithms/Task3/task3/task3/bin/Debug/netcoreapp3.1/task3.deps.json
+/Users/ibrahimaliyevv/Desktop/HometasksSearchAlgorithms/Task3/task3/task3/bin/Debug/netcoreapp3.1/task3.runtimeconfig.json
+/Users/ibrahimaliyevv/Desktop/HometasksSearchAlgorithms/Task3/task3/task3/bin/Debug/netcoreapp3.1/task3.runtimeconfig.dev.json
+/Users/ibrahimaliyevv/Desktop/HometasksSearchAlgorithms/Task3/task3/task3/bin/Debug/netcoreapp3.1/task3.dll
+/Users/ibrahimaliyevv/Desktop/HometasksSearchAlgorithms/Task3/task3/task3/bin/Debug/netcoreapp3.1/task3.pdb
+/Users/ibrahimaliyevv/Desktop/HometasksSearchAlgorithms/Task3/task3/task3/obj/Debug/netcoreapp3.1/task3.dll
+/Users/ibrahimaliyevv/Desktop/HometasksSearchAlgorithms/Task3/task3/task3/obj/Debug/netcoreapp3.1/task3.pdb
+/Users/ibrahimaliyevv/Desktop/HometasksSearchAlgorithms/Task3/task3/task3/obj/Debug/netcoreapp3.1/task3.genruntimeconfig.cache
